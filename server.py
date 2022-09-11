@@ -35,7 +35,7 @@ def submit_form():
         except:
             return "Oh File Not Saved To Database !"   
     else:
-        return "Something Wwnt Wrong !"
+        return "Something Went Wrong !"
 
 
 
